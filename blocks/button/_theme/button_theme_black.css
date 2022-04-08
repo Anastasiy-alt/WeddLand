@@ -1,0 +1,21 @@
+.button_theme_black {
+    width: 200px;
+    height: 50px;
+    background: #F7941E;
+    margin: 0;
+    padding: 0;
+    border-color: #231F20;
+    margin-right: 16px;
+}
+
+.button_theme_black:hover {
+    background: #231F20 
+}
+
+.button_theme_black:hover .button__link_theme_black {
+    color: #FFF;
+}
+
+.button_theme_black:last-child {
+    margin: 0;
+}

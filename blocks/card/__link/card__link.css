@@ -1,0 +1,12 @@
+.card__link {
+    font-family: 'Gilroy';
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFF;
+    text-decoration: none;
+    transition: color .5s;
+}
+
+.card__link:hover {
+    color: #f7941E;
+}

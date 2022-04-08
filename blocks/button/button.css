@@ -1,0 +1,21 @@
+.button {
+    border: 1px solid #F7941E;
+    width: 150px;
+    height: 43.5px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin: 0;
+    padding: 0;
+    margin-right: 34px;
+    background: #FAFAFA;
+    transition: color .5s;
+    transition: background-color .5s;
+}
+
+.button:hover {
+    background-color: #F7941E;
+}
+
+.button:hover .button__link {
+    color: #FAFAFA;
+}

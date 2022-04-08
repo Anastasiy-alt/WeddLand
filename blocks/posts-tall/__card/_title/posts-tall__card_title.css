@@ -1,0 +1,15 @@
+.posts-tall__card_title {
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 24px;
+    font-family: 'Gilroy';
+    font-size: 20px;
+    line-height: 24px;
+    width: 246px;
+    height: 166px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: #FAFAFA;
+}
+

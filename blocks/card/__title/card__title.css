@@ -1,0 +1,9 @@
+.card__title {
+    font-family: 'Gilroy';
+    font-size: 48px;
+    line-height: 58px;
+    color: #FFF;
+    max-width: 492px;
+    margin-top: 27px;
+    margin-bottom: 60;
+}

@@ -1,0 +1,13 @@
+.one-card {
+    margin-right: 30px;
+    padding: 48px;
+    padding-bottom: 50px;
+}
+
+.one-card:last-child {
+    margin-right: 0px;
+}
+
+.one-card:hover {
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
+}

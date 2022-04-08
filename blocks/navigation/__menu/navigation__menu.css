@@ -1,0 +1,7 @@
+.navigation__menu {
+    margin-top: 27.07px;
+    margin-bottom: 27.07px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+}

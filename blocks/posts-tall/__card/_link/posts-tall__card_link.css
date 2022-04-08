@@ -1,0 +1,15 @@
+.posts-tall__card_link {
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #000000;
+    align-self: flex-start;
+    transition: color .5s;
+}
+
+.posts-tall__card_link:hover {
+    color: #f7941E;
+}

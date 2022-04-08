@@ -1,0 +1,4 @@
+.posts-tall__card:hover .posts-tall__card_title {
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
+    background: #FFF;
+}

@@ -1,0 +1,19 @@
+.navigation__menu_topic-name {
+    margin: 0;
+    padding: 0;
+    margin-right: 31px;
+    font-family: 'Gilroy';
+    font-size: 18px;
+    line-height: 22px;
+    transition: color .5s;
+    text-decoration: none;
+    color: #000;
+}
+
+.navigation__menu_topic-name:last-child {
+    margin-right: 0;
+}
+
+.navigation__menu_topic-name:hover {
+    color: #f7941E;
+}
