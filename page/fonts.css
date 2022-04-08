@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Homemade Apple';
+    src: url('HomemadeApple-Regular.eot');
+    src: local('Homemade Apple Regular'), local('HomemadeApple-Regular'),
+        url('./HomemadeApple/HomemadeApple-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./HomemadeApple/HomemadeApple-Regular.woff2') format('woff2'),
+        url('./HomemadeApple/HomemadeApple-Regular.woff') format('woff'),
+        url('./HomemadeApple/HomemadeApple-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('Gilroy-Regular.eot');
+    src: local('Gilroy Regular'), local('Gilroy-Regular'),
+        url('./Gilroy/Gilroy-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./Gilroy/Gilroy-Regular.woff2') format('woff2'),
+        url('./Gilroy/Gilroy-Regular.woff') format('woff'),
+        url('./Gilroy/Gilroy-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
